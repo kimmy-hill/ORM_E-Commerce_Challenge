@@ -20,3 +20,4 @@ THEN I am able to successfully create, update, and delete data in my database
 Starter Code Source: https://github.com/coding-boot-camp/fantastic-umbrella
 
 Walkthrough video: 
+https://drive.google.com/file/d/1ipCFZ7c5kRNi-vSwFE2TpkyYwjUI4w0H/view?usp=sharing
